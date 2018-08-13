@@ -1,0 +1,24 @@
+{"products":
+[
+{"id":1,"name":"unavailable","category":"Goldenrod"},
+{"id":2,"name":"Paraxerus cepapi","category":"Turquoise"},
+{"id":3,"name":"Myrmecophaga tridactyla","category":"Pink"},
+{"id":4,"name":"Trichosurus vulpecula","category":"Aquamarine"},
+{"id":5,"name":"Ciconia episcopus","category":"Turquoise"},
+{"id":6,"name":"Graspus graspus","category":"Khaki"},
+{"id":7,"name":"Gymnorhina tibicen","category":"Aquamarine"},
+{"id":8,"name":"Echimys chrysurus","category":"Purple"},
+{"id":9,"name":"Connochaetus taurinus","category":"Mauv"},
+{"id":10,"name":"Nyctanassa violacea","category":"Puce"},
+{"id":11,"name":"Prionace glauca","category":"Teal"},
+{"id":12,"name":"Macropus fuliginosus","category":"Blue"},
+{"id":13,"name":"Phalacrocorax niger","category":"Crimson"},
+{"id":14,"name":"Macaca radiata","category":"Red"},
+{"id":15,"name":"Macropus robustus","category":"Turquoise"},
+{"id":16,"name":"Anser anser","category":"Crimson"},
+{"id":17,"name":"Microcebus murinus","category":"Orange"},
+{"id":18,"name":"Dasyurus maculatus","category":"Purple"},
+{"id":19,"name":"Phalaropus lobatus","category":"Teal"},
+{"id":20,"name":"Phalacrocorax carbo","category":"Aquamarine"}
+]
+}
